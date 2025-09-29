@@ -1,0 +1,15 @@
+div {
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    border: solid 30px rgb(34, 205, 205); /* aki ele transforma minha caixa em 200px sem a minha borda   */
+    padding: 30px;
+    margin: 20px;
+
+}
+
+#alternate{
+
+    box-sizing: border-box;  /* aki ele transforma minha caixa em 200px como um todo junto com a minha borda */
+    border: 30px solid rgb(101, 101, 101);
+}
