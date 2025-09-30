@@ -1,15 +1,30 @@
-div {
-    background-color: purple;
-    width: 200px;
-    height: 200px;
-    border: solid 30px rgb(34, 205, 205); /* aki ele transforma minha caixa em 200px sem a minha borda   */
+#word{
+    border: 2px solid purple ;
+    width: 100px;
+    height: 100px;
     padding: 30px;
-    margin: 20px;
-
+    margin: 30px;
+    display:inline-block;
 }
 
-#alternate{
+h1 {
+    border: 2px solid purple ;
+    
+    padding: 30px;
+    margin: 30px;
+    display: inline;
+}
 
-    box-sizing: border-box;  /* aki ele transforma minha caixa em 200px como um todo junto com a minha borda */
-    border: 30px solid rgb(101, 101, 101);
+#img {
+
+
+    border: solid green;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+
+
+
+
+
 }
