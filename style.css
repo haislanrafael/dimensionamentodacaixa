@@ -1,4 +1,28 @@
 h1 {
-    display: none;
-    opacity: 0;
+    margin: -20px;
+}
+
+div {
+
+    border: 1px solid  lavenderblush;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    background-color: lavenderblush;
+
+}
+
+.container h3 {
+
+    border: 1px solid ;
+    width: 100px;
+    margin: 150px auto;
+    background-color: blueviolet;
+    text-align: center;
+    color: aliceblue;
+
+
+
+  
+
 }
